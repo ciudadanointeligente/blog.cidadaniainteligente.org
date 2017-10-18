@@ -1,0 +1,29 @@
+<div class="col-sm-4 col-md-4">
+  <div class="panel panel-default">
+    <div class="panel-heading article-news">
+      {% if post.single_image[0].img %}
+      <img src="{{ post.single_image[0].img }}" alt="{{ destacada.title }}" title="{{ destacada.title }}" class="img-responsive">
+      {% else %}
+      <div class="no-image-header"></div>
+      {% endif %}
+    </div>
+    <div class="panel-body">
+      {% if post.categories %}
+        {% for category in post.categories %}
+        <span class="label label-default">
+          {{ category }}
+        </span>
+        {% endfor %}
+      {% endif %}
+      <h3>
+        <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">
+          {{ post.title | truncate: 42, ""}}
+        </a>
+      </h3>
+      <p>{{ post.intro | truncate: 112, ""}}</p><a href="{{ post.url | prepend: site.baseurl }}"> Ver más <i class="fa fa-angle-double-right" aria-hidden="true"></i></a>
+      <span class="post-meta">
+        {% include post_date.html date=post.date%}
+      </span>
+    </div>
+  </div>
+</div>
