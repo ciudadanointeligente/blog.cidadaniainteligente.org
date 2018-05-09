@@ -24,7 +24,7 @@ Separamos três exemplos práticos que podem ajudar a entender mais! Nas última
 
 "Observatório de Governo Aberto", onde a questão era a pouca colaboração entre os cidadãos e o governo municipal autônomo de La Paz para a construção conjunta de políticas públicas.
 
-![Escuela](https://imgur.com/uewnale "Escuela")
+![Escuela](https://i.imgur.com/uewnale.jpg "Escuela")
 
 O que esses temas têm em comum? Todos são processos pensados a partir da sociedade para melhorar questões sociais, tendo como referência a disputa política urbana (alguns projetos englobam também questões rurais)  e institucional.
 
@@ -42,5 +42,5 @@ Gostei! E porque devo participar?
 Acreditamos que a Escuela tem a capacidade de aumentar e potencializar projetos além de fortalecer perfis de liderança na América Latina. O tema desta edição é "Como a Violência impede a participação dos jovens na política?" e, se você combate à violência em qualquer uma de suas dimensões e que quer incidir em políticas para mudar essa realidade, veja aqui alguns dados e participe! 
 
 
-![Escuela](https://imgur.com/AKfhq4v "Escuela")
+![Escuela](https://i.imgur.com/AKfhq4v.jpg "Escuela")
 
