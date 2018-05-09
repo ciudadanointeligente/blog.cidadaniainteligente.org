@@ -8,7 +8,7 @@ categories:
 highlighted: true
 share_message: "Afinal, pra que serve uma Escuela de Incidência? @ciudadanoi nos cuenta"
 single_image:
-  - img: "https://imgur.com/zplhJrb"
+  - img: "https://i.imgur.com/zplhJrb.jpg"
     caption:
 ---
 ***Pra você que gostou da chamada, mas ainda não entendeu direito o que está acontecendo! Vamos descomplicar os conceitos.
