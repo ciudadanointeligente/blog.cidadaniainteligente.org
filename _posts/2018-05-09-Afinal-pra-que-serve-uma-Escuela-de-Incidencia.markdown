@@ -11,9 +11,9 @@ single_image:
   - img: "https://i.imgur.com/zplhJrb.jpg"
     caption:
 ---
-***Pra você que gostou da chamada, mas ainda não entendeu direito o que está acontecendo! Vamos descomplicar os conceitos.
+***Pra você que gostou da chamada, mas ainda não entendeu direito o que está acontecendo! Vamos descomplicar os conceitos.***
 
-Nossa proposta com a Escuela de Incidência é colaborar para que mudanças sociais aconteçam a partir do fortalecimento de lideranças locais que atuem em contextos de violência.  Nossa metodologia parte da transferência de ferramentas e tecnologias que sejam capazes de fortalecer a atuação desses agentes.***
+***Nossa proposta com a Escuela de Incidência é colaborar para que mudanças sociais aconteçam a partir do fortalecimento de lideranças locais que atuem em contextos de violência.  Nossa metodologia parte da transferência de ferramentas e tecnologias que sejam capazes de fortalecer a atuação desses agentes.***
 
 
 Separamos três exemplos práticos que podem ajudar a entender mais! Nas últimas edições da Escuela, alguns projetos foram criados para incidir em políticas públicas; mas as iniciativas desenvolvidas da EDI podem ser direcionadas para projetos sociais, campanhas de engajamento e qualquer outro tipo de iniciativa que promova mudanças reais! Vejam aqui:
