@@ -1,20 +1,21 @@
 ---
 layout: post
-title: 'Una joven que lucha contra la violencia'
-intro: 'Con 19 años, Bibiana Quintero trabaja para que la violencia salga de la vida de la ciudadanía colombiana.'
-date: 2017-09-05 14:30:00 -0300
+title: 'Afinal, pra que serve uma Escuela de Incidência?'
+intro: 'Pra você que gostou da chamada, mas ainda não entendeu direito o que está acontecendo! Vamos descomplicar os conceitos.'
+date: 2018-09-05 14:30:00 -0300
 categories:
 highlighted: true
-share_message: "Conoce aquí la historia de una activista que con 19 años lucha contra la violencia en Colombia (via @ciudadanoi)"
+share_message: "Afinal, pra que serve uma Escuela de Incidência (via @ciudadanoi)"
 single_image:
-  - img: "https://i.imgur.com/hBajonI.jpg"
+  - img: "https://i.imgur.com/zplhJrb.jpg"
     caption:
 ---
+Pra você que gostou da chamada, mas ainda não entendeu direito o que está acontecendo! Vamos descomplicar os conceitos.
 
-***Gran parte de lo que hacemos en Ciudadano Inteligente es fortalecer a la sociedad civil. Esto significa entregar herramientas a personas y organizaciones para ayudarles a cambiar el mundo. A través del proyecto Escuela de Incidencia hicimos esto con Bibiana Quintero, una joven colombiana que cree que su país ya tuvo suficiente del conflicto armado, y que es hora de transformarlo.*** 
+Nossa proposta com a Escuela de Incidência é colaborar para que mudanças sociais aconteçam a partir do fortalecimento de lideranças locais que atuem em contextos de violência.  Nossa metodologia parte da transferência de ferramentas e tecnologias que sejam capazes de fortalecer a atuação desses agentes.
 
-A sus 19 años, algo le molesta a Bibiana Quintero. Oriunda de Cúcuta, una de las regiones de Colombia más azotadas por el conflicto armado, hay algo que no le hace sentido: ¿Por qué, si nadie quiere violencia, todas y todos la aceptan en su vida cotidiana con tanta naturalidad?* 
-
+[Imgur](https://i.imgur.com/zplhJrb.jpg)
+![alt text](https://i.imgur.com/zplhJrb.jpg)
 
 Aunque todavía no termina de estudiar Derecho, Bibiana lleva más de tres años trabajando por cambiar la realidad colombiana. El conflicto armado la tocó de cerca, cuando vivió una situación personal muy difícil: su padre era militar y se vio involucrado en un caso de falsos positivos, en los que militares, por cumplir con sus objetivos, asesinaban a campesinos y luego los vestían de guerrilleros. 
 
