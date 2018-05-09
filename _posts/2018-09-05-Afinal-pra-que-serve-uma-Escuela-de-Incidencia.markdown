@@ -5,7 +5,7 @@ intro: "Pra você que gostou da chamada, mas ainda não entendeu direito o que e
 date:   2018-09-05 14:30:00 -0300
 categories:
  - "Tecnología"
-highlighted: false
+highlighted: true
 share_message: "Afinal, pra que serve uma Escuela de Incidência? @ciudadanoi nos cuenta"
 single_image:
   - img: "https://imgur.com/zplhJrb"
