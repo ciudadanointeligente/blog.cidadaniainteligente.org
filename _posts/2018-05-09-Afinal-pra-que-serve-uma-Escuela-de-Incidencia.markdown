@@ -2,7 +2,7 @@
 layout: post
 title:  'Afinal, pra que serve uma Escuela de Incidência?'
 intro: "Pra você que gostou da chamada, mas ainda não entendeu direito o que está acontecendo! Vamos descomplicar os conceitos."
-date:   2018-09-05 14:30:00 -0300
+date:   2018-05-09 14:30:00 -0300
 categories:
  - "Tecnología"
 highlighted: true
