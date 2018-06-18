@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Juventude '
+title: 'JUVENTUDE, FERRAMENTAS E POSSIBILIDADES DE TRANSFORMAÇÃO '
 intro: >-
   A juventude do presente, o combate a violência e ferramentas possíveis para a
   transformação.
@@ -19,7 +19,7 @@ published: true
 ---
 
 
-> “Total de mortes violentas no Brasil é maior do que o da guerra da Síria. Em 11 anos, Brasil enterrou 553 mil pessoas, segundo o Atlas da Violência.”
+**“Total de mortes violentas no Brasil é maior do que o da guerra da Síria. Em 11 anos, Brasil enterrou 553 mil pessoas, segundo o Atlas da Violência.”**
 
 Este trecho é parte do artigo da Folha sobre a última edição do Atlas da Violência desenvolvido pelo IPEA (Instituto de Pesquisas Econômicas Aplicada) em parceria com o Fórum Brasileiro de Segurança Pública divulgado semana passada. A publicação se propõe a ser um raio x do cenário brasileiro, trazendo análises e indicando tendências no campo da violência no Brasil.
 
@@ -57,20 +57,20 @@ Esse tipo de violência, onde faltam políticas públicas que garantem estrutura
 
 Entender, estudar e pesquisar esses tipos de análise são fundamentais para qualificar a política pública. Atualmente, monitorar o desempenho e eficácia das medidas tomadas só são possíveis devido aos dados!
 
-Amanhã começa a primeira edição da Escuela de Incidencia no Brasil e trataremos exatamente a problemática da violência e seus diversos aspectos no território Brasileiro. A questão norteadora para a seleção dos participantes se deu em buscar entender “como a violência impede a participação da juventude na política.” 
+**Amanhã começa a primeira edição da Escuela de Incidencia no Brasil** e trataremos exatamente a problemática da violência e seus diversos aspectos no território Brasileiro. A questão norteadora para a seleção dos participantes se deu em buscar entender “como a violência impede a participação da juventude na política.” 
 
 Para responder tal  provocação foi necessário que xs candidatxs apontassem quais tipos de violência atravessam suas atuações.
 
 
-![]({{site.baseurl}}/https://raw.githubusercontent.com/ciudadanointeligente/blog.cidadaniainteligente.org.github.io/master/images/post_EDI.png)
+![](https://raw.githubusercontent.com/ciudadanointeligente/blog.cidadaniainteligente.org.github.io/master/images/post_EDI.png)
 
 Um ponto extremamente relevante e sintomático nesta pequena análise de inscrições é entender que a maioria das pessoas que submeteram projetos que combatem situações como racismo institucional, violência de território/educacional, violência de gênero entre outros, nos leva refletir que iniciativas de solução derivadas de embates sócio-culturais ainda estão concentradas nas populações minorizadas que sofrem tais agressões.
 
 Nossa proposta com a Escuela é formar e impulsionar lideranças para que em um sistema de rede, possam atuar diretamente no desenvolvimento de propostas capazes de minimizar o impacto e a velocidade que essas agressões atravessam a juventude brasileira. 
 
-Fonte: https://www1.folha.uol.com.br/cotidiano/2018/06/total-de-mortes-violentas-no-brasil-e-maior-do-que-o-da-guerra-na-siria.shtml 
+Fonte: [Folha](https://www1.folha.uol.com.br/cotidiano/2018/06/total-de-mortes-violentas-no-brasil-e-maior-do-que-o-da-guerra-na-siria.shtml)
 
-https://www.nexojornal.com.br/expresso/2018/06/06/O-novo-recorde-de-homic%C3%ADdios-no-Brasil-em-3-pontos
+[Nexo Jornal](https://www.nexojornal.com.br/expresso/2018/06/06/O-novo-recorde-de-homic%C3%ADdios-no-Brasil-em-3-pontos)
 
 
 
