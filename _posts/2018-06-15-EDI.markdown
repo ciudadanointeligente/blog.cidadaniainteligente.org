@@ -1,52 +1,80 @@
 ---
 layout: post
-title:  'A juventude do presente, o combate a violência e ferramentas possíveis para a transformação'
-intro: "A juventude do presente, o combate a violência e ferramentas possíveis para a transformação."
-date:   2018-06-15 14:30:00 -0300
+title: 'Juventude '
+intro: >-
+  A juventude do presente, o combate a violência e ferramentas possíveis para a
+  transformação.
+date: '2018-06-15 14:30:00 -0300'
 categories:
- - "Tecnología"
- - "Escuela de Incidencia"
+  - Tecnología
+  - Escuela de Incidencia
 highlighted: true
-share_message: "A juventude do presente, o combate a violência e ferramentas possíveis para transformação"
+share_message: >-
+  A juventude do presente, o combate a violência e ferramentas possíveis para
+  transformação
 single_image:
-  - img: "/images/post_EDI.png"
-    caption:
+  - img: /images/post_EDI.png
+    caption: null
+published: true
 ---
-***Total de mortes violentas no Brasil é maior do que o da guerra da Síria. Em 11 anos, Brasil enterrou 553 mil pessoas, segundo o Atlas da Violência.***
 
+
+> “Total de mortes violentas no Brasil é maior do que o da guerra da Síria. Em 11 anos, Brasil enterrou 553 mil pessoas, segundo o Atlas da Violência.”
 
 Este trecho é parte do artigo da Folha sobre a última edição do Atlas da Violência desenvolvido pelo IPEA (Instituto de Pesquisas Econômicas Aplicada) em parceria com o Fórum Brasileiro de Segurança Pública divulgado semana passada. A publicação se propõe a ser um raio x do cenário brasileiro, trazendo análises e indicando tendências no campo da violência no Brasil.
 
-Uma forma de dimensionar os impactos da violência no Brasil é comparar que esse recorde de homicídios, com 550 mil mortos são mais da metade do número de soldados ingleses, franceses e italianos que perderam a vida durante a 2a Guerra Mundial.
+Uma forma de dimensionar os impactos da violência no Brasil é comparar que esse recorde de homicídios, com 550 mil mortos são mais da metade do número de soldados ingleses, franceses e italianos que perderam a vida durante a 2a Guerra Mundial. 
 
-O mapa tem representação importante em território nacional pois faz um compilado das diferentes formas de vioIência vividas pela população, incluindo a juventude Brasileira.
+O mapa tem representação importante em território nacional pois faz um compilado das diferentes formas de vioIência vividas pela população, incluindo a juventude.
 
 Segundo análise do Nexo Jornal, 4 pontos são essenciais de serem visualizados para melhor entendimento dos impactos:
 
-__1_ População de jovens e negros é a maior vítima__
+1_ População de jovens e negros é a maior vítima 
 
-A maioria dos homicídios, 92,6%, é de homens, e hoje, a violência é o grande fator a levar morte de jovens no Brasil, sendo a maioria negra. Um dos pontos críticos que impulsionam a morte de jovens negros é a atuação das próprias polícias.
+A maioria dos homicídios, 92,6%, é de homens, e hoje, a violência é o grande fator a levar morte de jovens no Brasil, sendo a maioria negra. Um dos pontos críticos que impulsionam a morte de jovens negros é a atuação das próprias polícias. 
 
-__2_ Contexto da piora__
+2_ Contexto da piora 
 
 Ao passo que houve relativa estabilidade na taxa de homicídios entre estados de Sudeste e Centro-Oeste, houve aumento entre os estados do Norte e Nordeste.
 
-__3_ Políticas públicas positivas__
+3_ Políticas públicas positivas 
 
-Algumas políticas públicas estaduais voltadas para a redução de homicídios conseguiram reduzir a violência. Vale ressaltar que, a responsabilização e envolvimento das lideranças políticas foram um grande impulso para a melhoria da taxas.
+Algumas políticas públicas estaduais voltadas para a redução de homicídios conseguiram reduzir a violência. Vale ressaltar que, a responsabilização e envolvimento das lideranças políticas foram um grande impulso para a melhoria da taxas. 
 
-__4_ Notificação de estupros aumenta__
+4_  Notificação de estupros aumenta 
 
-Pesquisa de Condições Socioeconômicas e Violência Doméstica e Familiar Contra a Mulher” de 2016, foi citada no Atlas e publicada em parceria com a Universidade Federal do Ceará, Universidade de Toulouse, na França, e o Instituto Maria da Penha.
+“Pesquisa de Condições Socioeconômicas e Violência Doméstica e Familiar Contra a Mulher” de 2016, foi citada no Atlas e publicada em parceria com a Universidade Federal do Ceará, Universidade de Toulouse, na França, e o Instituto Maria da Penha. 
 
-*50,9% Das vítimas de estupro registradas pelo Ministério da Saúde em 2016 tinham até 13 anos de idade. Outros 17% tinham entre 14 e 17 anos. E 32,1% eram maiores de idade.*
+50,9% Das vítimas de estupro registradas pelo Ministério da Saúde em 2016 tinham até 13 anos de idade. Outros 17% tinham entre 14 e 17 anos. E 32,1% eram maiores de idade. 
 
-Outro dado que pode ser somado a questão da violência praticada contra crianças é que em Abril de 2018, a ONG Visão Mundial, colocou o Brasil em primeiro lugar como o *mais violento na percepção da sociedade em comparação com 13 países da América Latina*. Algumas formas de violência consideradas foram abuso físico e psicológico, trabalho infantil, casamento precoce, a ameaça online e a violência sexual.
 
-As estatísticas não param por aqui. Além das violências letais (mortes derivadas de conflitos causados por armas letais) segundo o IBGE, o número de jovens de 16 a 29 anos que nem trabalham nem estudam, conhecidos como nem-nem estava em 11,6 milhões em 2017. Essa relação não se dá por conta da baixa frequência escolar, mas sim pelo *aumento da desocupação e o envolvimento com outras atividades, como por exemplo, afazeres domésticos e cuidado com os filhos/ parentes; falta de ocupação adequada e falta de experiência profissional.*
 
-Esse tipo de violência, onde faltam políticas públicas que garantem estrutura básicas como o não sucateamento de instituições públicas, oportunidades de capacitação e desenvolvimento da juventude, nesse caso; são conhecidas como violência de acesso.
+Outro dado que pode ser somado a questão da violência praticada contra crianças é que em Abril de 2018, a ONG Visão Mundial, colocou o Brasil em primeiro lugar como o mais violento na percepção da sociedade em comparação com 13 países da América Latina. Algumas formas de violência consideradas foram o abuso físico e psicológico, trabalho infantil, casamento precoce, ameaça online e violência sexual. 
 
-Entender, estudar e pesquisar esses tipos de análise são fundamentais para qualificar a política pública. Monitorar o desempenho e eficácia das medidas tomadas só são possíveis devido aos dados!
+As estatísticas não param por aqui. Além das violências letais (mortes derivadas de conflitos causados por armas letais) segundo o IBGE, o número de jovens de 16 a 29 anos que nem trabalham nem estudam, conhecidos como nem-nem estava em 11,6 milhões em 2017. Essa relação não se dá por conta da baixa frequência escolar, mas sim pelo aumento da desocupação e o envolvimento com outras atividades, como por exemplo, afazeres domésticos e cuidado com os filhos/ parentes; falta de ocupação adequada e falta de experiência profissional. 
 
-Estamos há 4 dias da *primeira edição da Escuela de Incidencia no Brasil que trata exatamente a problemática da violência em seus diversos aspectos no território Brasileiro*. A questão norteadora para a seleção dos participantes se deu em tentar entender e superar “como a violência impede a participação da juventude na política.” Para responder a provocação foi necessário que xs candidatxs apontassem quais tipos de violência a atuação deles buscava combater.
+Esse tipo de violência, onde faltam políticas públicas que garantem estrutura básicas como o não sucateamento de instituições públicas, oportunidades de capacitação e desenvolvimento da juventude, nesse caso; são conhecidas como violência de acesso. 
+
+Entender, estudar e pesquisar esses tipos de análise são fundamentais para qualificar a política pública. Atualmente, monitorar o desempenho e eficácia das medidas tomadas só são possíveis devido aos dados!
+
+Amanhã começa a primeira edição da Escuela de Incidencia no Brasil e trataremos exatamente a problemática da violência e seus diversos aspectos no território Brasileiro. A questão norteadora para a seleção dos participantes se deu em buscar entender “como a violência impede a participação da juventude na política.” 
+
+Para responder tal  provocação foi necessário que xs candidatxs apontassem quais tipos de violência atravessam suas atuações.
+
+
+![]({{site.baseurl}}/https://raw.githubusercontent.com/ciudadanointeligente/blog.cidadaniainteligente.org.github.io/master/images/post_EDI.png)
+
+Um ponto extremamente relevante e sintomático nesta pequena análise de inscrições é entender que a maioria das pessoas que submeteram projetos que combatem situações como racismo institucional, violência de território/educacional, violência de gênero entre outros, nos leva refletir que iniciativas de solução derivadas de embates sócio-culturais ainda estão concentradas nas populações minorizadas que sofrem tais agressões.
+
+Nossa proposta com a Escuela é formar e impulsionar lideranças para que em um sistema de rede, possam atuar diretamente no desenvolvimento de propostas capazes de minimizar o impacto e a velocidade que essas agressões atravessam a juventude brasileira. 
+
+Fonte: https://www1.folha.uol.com.br/cotidiano/2018/06/total-de-mortes-violentas-no-brasil-e-maior-do-que-o-da-guerra-na-siria.shtml 
+
+https://www.nexojornal.com.br/expresso/2018/06/06/O-novo-recorde-de-homic%C3%ADdios-no-Brasil-em-3-pontos
+
+
+
+
+ 
+
+ 
