@@ -9,7 +9,7 @@ categories:
 highlighted: true
 share_message: 'Semana passada começamos a primeira edição da Escuela de Incidencia no Brasil e esse post é pra você que quer entender como foi isso :)'
 single_image:
-  - img: /images/impacto_7.JPG
+  - img: /images/impacto_capa.jpg
     caption: null
 published: true
 ---
@@ -40,7 +40,6 @@ Cada participante precisou definir a temática que gostaria de incidir, identifi
 Nesse momento, o mapa de afinidades serviu para agrupar causas e consequências e pensar quais ações são possíveis de realizar para reverter esse cenário! No fim do dia, divididos em grupos, xs selecionadxs defenderam suas ideias, propostas e formas de atuação.
 
 <img src="/images/impacto_6.JPG" class="img-responsive article-img-header"  />
-<img src="/images/impacto_7.JPG" class="img-responsive article-img-header"  />
 
 Pra vocês não pensarem que teve só trabalho, juntxs **nós rimos, abraçamos, choramos ao falar das dificuldades da rotina e saímos transformados ao ver a quantidade de jovens que têm buscado ferramentas possíveis de transformação do cenário brasileiro em relação à juventude e violência**.
 
