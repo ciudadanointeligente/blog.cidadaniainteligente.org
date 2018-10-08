@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Eleições 2018: ações urgentes!'
+title: 'ELEIÇÕES 2018: AÇÕES URGENTES!'
 intro: 'O resultado das eleições pede que a sociedade civil se una em ações conjuntas!'
 date: '2018-10-08 14:30:00 -0300'
 categories:
