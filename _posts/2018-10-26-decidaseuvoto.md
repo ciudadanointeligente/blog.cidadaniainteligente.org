@@ -7,7 +7,7 @@ categories:
 highlighted: true
 share_message: 'Um jogo que ajuda eleitorxs indecisxs a escolher seu candidato!'
 single_image:
-  - img: "https://imgur.com/CPwmXhs"
+  - img: "/images/decidaseuvoto.png"
     caption: null
 published: true
 ---
