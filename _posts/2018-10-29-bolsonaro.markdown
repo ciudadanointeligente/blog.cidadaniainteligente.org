@@ -1,16 +1,16 @@
 ---
 layout: post
-title:  'Bolsonaro chegou ao poder. E agora?'
+title: 'Bolsonaro chegou ao poder. E agora?'
 intro: "Agora a cidadania está em uma corrida para proteger a democracia."
-date:   2018-10-29 14:30:00 -0300
+date: 2018-10-29 14:30:00 -0300
 categories:
  - "Actualidad"
 highlighted: true
-share_message: " Porque o resultado das eleções é perigoso para a democracia? Veja aqui em @cidadania"
+share_message: "Porque o resultado das eleções é perigoso para a democracia? Veja aqui em @cidadania"
 single_image:
   - img: "https://i.imgur.com/5yNwVhm.jpg"
     caption:
-    ---
+---
 A mais nova autoridade do maior país da América Latina é uma pessoa que declarou que “colocará um fim a todos os ativismos” do país, que fez declarações racistas, machistas e homofóbicas durante a campanha. Na [Cidadania Inteligente](https://ciudadanointeligente.org/) apoiamos o livre exercício da cidadania e defendemos a orientação ao voto (não poderia ser de outra forma, pois é parte essencial do sistema de governo que valorizamos e defendemos dia a dia). No entanto, vemos riscos para o espaço cívico, lugar esse que a cidadania expressa suas convicções e pressiona mudanças, cuja a base entendemos que se encontra o respeito dos direitos políticos, sociais e econômicos duramente conquistados ao longo da história.
 
 Estamos diante do risco de um presidente que tem mostrado desdém pelos direitos humanos reprima a quem está mais vulnerável. Uma autoridade que a equipe declarou ignorar o resultado das eleições caso perdessem. É urgente que  organizações e indivíduos  atuem para proteger o que temos avançado em décadas de ativismo.
