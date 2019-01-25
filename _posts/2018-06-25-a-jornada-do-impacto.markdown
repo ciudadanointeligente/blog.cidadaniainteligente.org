@@ -6,7 +6,7 @@ date: '2018-06-25 14:30:00 -0300'
 categories:
   - Tecnología
   - Escuela de Incidencia
-highlighted: true
+highlighted: false
 share_message: 'Semana passada começamos a primeira edição da Escuela de Incidencia no Brasil e esse post é pra você que quer entender como foi isso :)'
 single_image:
   - img: /images/impacto_capa.jpg
