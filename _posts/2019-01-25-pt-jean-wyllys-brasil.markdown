@@ -5,7 +5,7 @@ intro: "Quatro pontos para reverter a situação de Jean Wyllys e da comunidade 
 date:   2019-01-25 16:00:00 -0300
 categories:
  - "Actualidad"
-highlighted: true
+highlighted: false
 share_message: "Conhece a posição da @ciudadaniai sobre a desistência do deputado LGBT+, Jean Wyllys"
 single_image:
   - img: https://i.imgur.com/kIJXB99.jpg
