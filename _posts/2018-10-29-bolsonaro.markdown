@@ -5,7 +5,7 @@ intro: "Agora a cidadania está em uma corrida para proteger a democracia."
 date: 2018-10-29 14:30:00 -0300
 categories:
  - "Actualidad"
-highlighted: true
+highlighted: false
 share_message: "Porque o resultado das eleções é perigoso para a democracia? Veja aqui em @cidadania"
 single_image:
   - img: "https://i.imgur.com/5yNwVhm.jpg"
