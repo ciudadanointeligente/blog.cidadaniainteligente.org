@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  'A diversidade em nossas democracias'
+title:  'Ameaça à diversidade no Brasil'
 intro: "Quatro pontos para reverter a situação de Jean Wyllys e da comunidade LGBT+ no Brasil."
 date:   2019-01-25 16:00:00 -0300
 categories:
@@ -11,6 +11,9 @@ single_image:
   - img: https://i.imgur.com/kIJXB99.jpg
     caption: Jean Wyllys, Facebook
 ---
+
+[Leia a post em espanhol](https://blog.ciudadaniai.org/actualidad/2019/01/25/es-jean-wyllys-brasil.html)
+
 **Na última quarta-feira (24/01), o Brasil foi assolado com a notícia de desistência do cargo parlamentar para o terceiro mandato pelo Deputado Federal Jean Wyllys (PSOL-RJ). A reação do atual presidente Jair Bolsonaro e sua família ao ocorrido, tornam preocupante a seriedade com a qual seu governo trata da questão.**
 
 Desde a morte de sua parceira de militância e partido, Marielle Franco, Jean Wyllys vive sob escolta policial por conta da multiplicação das ameaças de morte que continuamente sofre pelo ativismo e militância em prol da causa LGBT+ no país.
