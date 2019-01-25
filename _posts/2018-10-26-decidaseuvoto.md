@@ -4,7 +4,7 @@ title: 'DECIDA SEU VOTO'
 intro: 'Ainda não sabe em quem votar?'
 date: '2018-10-08 14:30:00 -0300'
 categories:
-highlighted: true
+highlighted: false
 share_message: 'Um jogo que ajuda eleitorxs indecisxs a escolher seu candidato!'
 single_image:
   - img: "/images/decidaseuvoto.png"
