@@ -4,7 +4,7 @@ title: 'ELEIÇÕES 2018: AÇÕES URGENTES!'
 intro: 'O resultado das eleições pede que a sociedade civil se una em ações conjuntas!'
 date: '2018-10-08 14:30:00 -0300'
 categories:
-highlighted: true
+highlighted: false
 share_message: 'O resultado das eleições pede que a sociedade civil se una em ações conjuntas!'
 single_image:
   - img: "https://i.imgur.com/tqMJcIg.jpg"
